@@ -1,2 +1,6 @@
+Quelqeus comnade git
+
 --global user.name 'votre nom d utilisateur'
---global user.email 'votre adresse courriel'
+--global user.email 'votre adresse courrielnote.txt'
+
+dsafdafadgfdfg
