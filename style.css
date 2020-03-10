@@ -1,0 +1,28 @@
+:root{
+   font-size: 16px;
+   font-family: 'Sacramento', cursive;       
+   --text-primary:#c02b2b;
+   --text-secondary:#ececec;
+   --bg-primary:#2323e2;
+   --bg-secondary:#141418;
+}
+
+body{
+    color: pink;
+    background-color: rgb(128, 128, 128);
+    font-size:25px;
+    margin:0;
+    padding:0;
+}
+
+main{
+    margin-left:10rem;
+    padding:10rem;
+}
+
+.navbar{
+    width:5rem;
+    height:100vh;
+    position:fixed;
+    background-color: var(--bg-primary);
+}
