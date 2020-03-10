@@ -1,0 +1,2 @@
+--global user.name 'votre nom d utilisateur'
+--global user.email 'votre adresse courriel'
